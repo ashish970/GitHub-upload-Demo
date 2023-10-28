@@ -12,7 +12,7 @@ html,body {
 #bg {
     height: 120%;
     width: 100%;
-    background-image: url(./pic.jpg);
+    background-image: url(./pic.webp);
     background-size: cover;
 }
 h1 {
